@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5f9fc512199b7be4bbea6ac0de28befd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FONTSPRING DEMO - Proxima Nova Semibold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2869041a83464eb4d883579e20d46940, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

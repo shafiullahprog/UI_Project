@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dde16a317f8978e4c85b1c5b233a4683
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FONTSPRING DEMO - Proxima Nova Cond Thin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7a62dc4adf14c12489b7f6770082ade2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
